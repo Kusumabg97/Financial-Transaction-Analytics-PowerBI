@@ -86,7 +86,25 @@ The analysis can help financial teams:
 
 ## 📸 Dashboard Preview
 
-Dashboard screenshots will be added here.
+### Financial Transaction Overview
+
+![Financial Dashboard Overview](Screenshots/01_Financial_Dashboard_Overview.png)
+
+### Transaction Analysis
+
+![Transaction Analysis](Screenshots/02_Transaction_Analysis.png)
+
+### Transaction Trends
+
+![Transaction Trends](Screenshots/03_Transaction_Trends.png)
+
+### Transaction Methods
+
+![Transaction Methods](Screenshots/04_Transaction_Methods.png)
+
+### Transaction Insights
+
+![Transaction Insights](Screenshots/05_Transaction_Insights.png)
 
 ## 👩‍💻 Skills Demonstrated
 
